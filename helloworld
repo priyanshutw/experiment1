@@ -1,2 +1,7 @@
 a= "Hello Mam"
 print(a)
+
+b=10
+d=3
+c = b -d
+print(c)

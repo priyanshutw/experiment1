@@ -1,2 +1,3 @@
 a= "Hello Mam"
 print(a)
+print("Hello ")
